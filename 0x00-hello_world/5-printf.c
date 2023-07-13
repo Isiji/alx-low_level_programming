@@ -2,7 +2,7 @@
 /**
  * main-prints out the given line
  *
- * return:if the value is (0) then its a success
+ * return:0 (success)
  */
 int main(void)
 	/*this where the process begins*/
