@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - A program that uses puts function to print a line
- * return: Returns (0) if succesfull
+ * main - Start point
+ *
+ * Return: Shows zero
  */
 int main(void)
 {
