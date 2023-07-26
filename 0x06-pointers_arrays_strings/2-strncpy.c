@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _strncpy - copies strings
+ * _strncpy - copies a string of text
  * @dest: destination string
  * @src: source string
  * @n: number of characters
- * Retun: dest
+ * Return: dest
  */
 
 char *_strncpy(char *dest, char *src, int n)
