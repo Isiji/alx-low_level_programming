@@ -3,6 +3,9 @@
 
 /**
  * struct dog - defines a new type structure
+ * @name: stores name of the dog
+ * @age: stores age of the dog
+ * @owner: stores name of owner
  */
 
 struct dog
